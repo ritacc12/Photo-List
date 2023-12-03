@@ -6,7 +6,7 @@
 
   .picture {
     padding: 1rem;
-    width: 400px;
+    width: 300px;
     .imageContainer {
       overflow: hidden;
       height: 40vh;
@@ -20,5 +20,18 @@
         }
       }
     }
+  }
+  .download {
+    margin-top: 0.5rem;
+    font-size: small;
+    font-weight: bold;
+    color: black;
+  }
+  a {
+    color: #747f7f;
+    font-weight: bold;
+  }
+  .photographer {
+    font-weight: bold;
   }
 }
