@@ -8,6 +8,9 @@ const Layout = () => {
     <div>
       <nav>
         <ul>
+          <li className="title">
+            <h3>Photo List</h3>
+          </li>
           <li>
             <Link to="/">HOME</Link>
           </li>

@@ -1,11 +1,18 @@
 nav {
   background-color: rgb(228, 255, 226);
+  .title {
+    font-size: larger;
+    font-weight: 900;
+    display: flex;
+    position: relative;
+    right: 30%;
+  }
   ul {
     display: flex;
     justify-content: flex-end;
-    margin-right: 2rem;
+    margin-right: 1.5rem;
     li {
-      padding: 0.5rem 1rem;
+      padding: 0.3rem 1rem;
       a {
         font-size: 1.25rem;
       }
