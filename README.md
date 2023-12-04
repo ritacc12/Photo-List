@@ -2,8 +2,8 @@
 
 This project is build with react for user to view and download the free pictures
 
-![Image]
-(https://github.com/ritacc12/IMG/blob/main/FireShot-%20Photo%20List%20.png)
+![FireShot- Photo List ](https://github.com/ritacc12/Photo-List/assets/140707328/32d43265-fe4e-4299-9fe6-13cfb7cbe267)
+
 
 ## Feature
 
