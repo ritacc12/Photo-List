@@ -16,14 +16,13 @@ This project is build with react for user to view and download the free pictures
 1. Clone the repository
 
 ```bash
-git clone
- https://github.com/ritacc12/Photo-List.git
+git clone https://github.com/ritacc12/Photo-List.git
 ```
 
 2. Used terminal to open the file
 
 ```bash
- cd photolist
+ cd Photo-List
 ```
 
 3. install npm package
